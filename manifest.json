@@ -1,0 +1,10 @@
+{
+	"id": "Signed-Remarks",
+	"name": "Signed Remarks",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Let you create cards with elements, that signifies a general notes, tips, warnings and everything you want.",
+	"author": "Rollenso",
+	"authorUrl": "https://github.com/rollenso",
+	"isDesktopOnly": false
+}
