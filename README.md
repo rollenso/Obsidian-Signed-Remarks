@@ -1,5 +1,5 @@
 
-# Obsidian-Signed-Remarks
+# Obsidian Signed Remarks
 Signed Remarks Plugin for Obsidian
 
 this plugin  allows you to add custom signed remarks, annotations, and visual markers to your notes with personalized images and colors.
