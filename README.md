@@ -94,13 +94,17 @@ Open the settings:
 
 
 ### Development Setup
-```git clone https://github.com/rollenso/Obsidian-Signed-Remarks.git
 ```
-```cd obsidian-signed-remarks
+git clone https://github.com/rollenso/Obsidian-Signed-Remarks.git
 ```
-```npm install
 ```
-```npm run dev
+cd obsidian-signed-remarks
+```
+```
+npm install
+```
+```
+npm run dev
 ```
 ### 📄 License
 
