@@ -94,14 +94,14 @@ Open the settings:
 
 
 ### Development Setup
-'''git clone https://github.com/rollenso/Obsidian-Signed-Remarks.git'''
-
-'''cd obsidian-signed-remarks'''
-
-'''npm install'''
-
-'''npm run dev'''
-
+```git clone https://github.com/rollenso/Obsidian-Signed-Remarks.git
+```
+```cd obsidian-signed-remarks
+```
+```npm install
+```
+```npm run dev
+```
 ### 📄 License
 
 This plugin is released under the GPL-3.0 License. See the LICENSE file for details.
